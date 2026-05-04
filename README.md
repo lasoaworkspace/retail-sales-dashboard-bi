@@ -1,4 +1,4 @@
-Dashboard de Ventas Retail y Rentabilidad 
+# Dashboard de Ventas Retail y Rentabilidad 
 
 ##  Objetivo del Proyecto
 Automatizar la limpieza de un registro histórico de ventas comerciales y modelar los datos para crear un panel de control interactivo. El objetivo es permitir a la gerencia monitorear los KPIs financieros y el rendimiento geográfico de los productos.
@@ -8,7 +8,7 @@ Automatizar la limpieza de un registro histórico de ventas comerciales y modela
 * **Power BI (DAX):** Modelado de datos y creación de medidas clave (Total Ventas, Total Ganancia, Margen %) para la visualización del rendimiento.
 
 ##  Vista Previa del Dashboard
-
+<img width="1793" height="1001" alt="image" src="https://github.com/user-attachments/assets/7524516e-ce49-4aba-8bf7-8e773feaf472" />
 
 ##  Principales Conclusiones
 1. **Crecimiento Sostenido:** Se observa una fuerte tendencia al alza en las ventas totales hacia el cierre del año 2017.
